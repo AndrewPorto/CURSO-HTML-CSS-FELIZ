@@ -12,13 +12,12 @@ header {
 .imagem {
     margin-left: -10px;
     transition: transform 150ms linear;
-
 }
 
 .imagem:hover{
     transform: scale(1.4);
-    
 }
+
 nav {
     text-align: right;
 }
@@ -32,7 +31,6 @@ a {
     font-weight: 500;
     text-decoration: none;
     margin-right: 30px;
-
 }
 
 a::before {
@@ -43,7 +41,6 @@ a::before {
     margin-right: 10px;
 }
 
-
 #button {
     display: inline-block;
     background-color: #F25A70;
@@ -53,11 +50,20 @@ a::before {
     padding-right: 20px;
     box-shadow: 5px 5px 0 #000;
     margin-right: 0px;
-    transition: transform 150ms linear;
-  
+    transition: transform 150ms linear;  
 }
 
 #button:hover {
     text-decoration: underline;
     transform: scale(1.1);
 }
+ 
+h1 {
+    color: #F25A70;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 40px;
+    text-shadow: 4px 4px 0px #000;
+}
+   
+
+
