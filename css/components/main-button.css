@@ -1,4 +1,4 @@
-.button {
+.main-button {
     display: inline-block;
     background-color: #F25A70;
     height: 60px;
@@ -14,7 +14,7 @@
     text-decoration: none;
 }
 
-.button:hover {
+.main-button:hover {
     text-decoration: underline;
     transform: scale(1.1);
 }
