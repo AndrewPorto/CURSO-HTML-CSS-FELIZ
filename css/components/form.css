@@ -1,0 +1,45 @@
+form {
+    height: 862px;
+    color: #FFF;
+    background-color: #3A4042;
+}
+
+form h2 {
+    text-align: center;
+    padding-top: 70px;
+    margin-bottom: 79px;
+    font-size: 40px;
+}
+
+.formulario {
+    display: flex;
+    flex-direction: column;
+    margin: 0 40px;
+}
+
+.formulario label {
+    margin: 5px 0 5px 2px;
+    
+}
+
+input {
+    height: 40px;
+    border: 5px solid black;
+}
+
+textarea {
+    border: 5px solid black;
+    height: 318.74px;
+}
+
+#enviar {
+    background-color: #F25A70;
+    color: #FFF;
+    font-size: 30px;
+    height: 60px;
+    margin-top: 40px;
+    font-family: 'Fira Code';
+    cursor: pointer;
+    border: none;
+    box-shadow: 5px 5px #000;
+}

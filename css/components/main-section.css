@@ -25,3 +25,7 @@
 .main-section.-bgSecond {
     background-color: #7C5E99;
 }
+
+.main-section h2 {
+    padding-bottom: 65px;
+}
